@@ -1,6 +1,6 @@
 # Bank Management System
 
-![Bank System Animation](https://via.placeholder.com/800x400.png?text=Your+App+GIF+Here)
+![Bank System Animation](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F130815564150602449%2F&psig=AOvVaw3mJnIB_xvFMkfzgh4G8lB5&ust=1726246055471000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNDdlOztvYgDFQAAAAAdAAAAABAZ)
 
 ## Short Description
 
@@ -39,4 +39,4 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/bank-management-system.git
+   https://github.com/Farhan-Malik/Bank-Managment-System.git
